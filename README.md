@@ -31,8 +31,8 @@ A modelagem UML (Unified Modeling Language) é utilizada para representar grafic
 # Casos de Uso
 
 O diagrama de casos de uso descreve as funcionalidades do sistema do ponto de vista do usuário. Ele ajuda a entender quais interações são possíveis dentro do sistema.
+![image](https://github.com/user-attachments/assets/3181adfb-96af-4f40-883b-1528b2dbdc58)
 
-![diagrama](https://github.com/user-attachments/assets/111af932-b8fd-4a15-91ad-671badaa10c8)
 
 
 # Diagrama de Classe
