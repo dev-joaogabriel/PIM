@@ -34,12 +34,12 @@ O diagrama de casos de uso descreve as funcionalidades do sistema do ponto de vi
 ![image](https://github.com/user-attachments/assets/3181adfb-96af-4f40-883b-1528b2dbdc58)
 
 # Integrantes do Grupo 
-Nome | Github |
------------- | ------------- |
-Breno Rodney Conha Sacilotti | https://github.com/acreditar
-João Gabriel Sobrinho dias de Oliveira | https://github.com/dev-joaogabriel/
-Jonas Santos Rubio | https://github.com/JSRubioo
-Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
+Nome | Nome | Github |
+------------ |------------ | ------------- |
+Dev | Breno Rodney Conha Sacilotti | https://github.com/acreditar
+Scrum Master | João Gabriel Sobrinho dias de Oliveira | https://github.com/dev-joaogabriel/
+P.O | Jonas Santos Rubio | https://github.com/JSRubioo
+Dev | Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
 
 # Diagrama de Classe
 
