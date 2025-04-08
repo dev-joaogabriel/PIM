@@ -46,7 +46,7 @@ Dev | Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
 
 O diagrama de classe representa a estrutura estática do sistema, mostrando as classes, atributos, métodos e relacionamentos entre elas.
 
-# Sprints
+# Sprint Backlog
 Sprint | Descição | Data de entrega |
 ------------ |------------ | ------------- |
 1 | Levantamento de requisitos | 18/03/2025 |
