@@ -35,7 +35,7 @@ O diagrama de casos de uso descreve as funcionalidades do sistema do ponto de vi
 ![image](https://github.com/user-attachments/assets/3181adfb-96af-4f40-883b-1528b2dbdc58)
 
 # Integrantes do Grupo 
-Nome | Nome | Github |
+Função | Nome | Github |
 ------------ |------------ | ------------- |
 Dev | Breno Rodney Conha Sacilotti | https://github.com/acreditar
 Scrum Master | João Gabriel Sobrinho dias de Oliveira | https://github.com/dev-joaogabriel/
@@ -46,4 +46,14 @@ Dev | Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
 
 O diagrama de classe representa a estrutura estática do sistema, mostrando as classes, atributos, métodos e relacionamentos entre elas.
 
-
+# Sprints
+Sprint | Descição | Data de entrega |
+------------ |------------ | ------------- |
+1 | Levantamento de requisitos | 18/03/2025 |
+2 | Elaboração prototipo FIGMA | 11/04/2025 |
+3 | Casos de usos descritivos | 14/04/2025 |
+4 | Inicio da modelagem do BDD | 09/05/2025 |
+5 | Diagrama de casos de usos | 18/04/2025 |
+6 | Digrama de classes | 25/04/2025 |
+7 | Diagrama de sequencia | 02/05/2025 |
+8 | Planilha de testes | 16/05/2025 |
