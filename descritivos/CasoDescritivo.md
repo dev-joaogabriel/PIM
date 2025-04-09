@@ -4,7 +4,7 @@ Este documento descreve os casos de uso do sistema de chamados com base nos ator
 
 ---
 
-## ✅ Caso de Uso: Abrir Chamado
+## Caso de Uso: Abrir Chamado
 **Ator Principal:** Usuário  
 **Resumo:** Permite ao usuário registrar um chamado de suporte relacionado a problemas com software, hardware ou acessos.  
 **Pré-condições:** O usuário deve estar autenticado no sistema.  
