@@ -42,7 +42,7 @@ Caso de uso descritivo é um documento que informa ou descreve como o usuario in
 # Integrantes do Grupo 
 Função | Nome | Github |
 ------------ |------------ | ------------- |
-Dev | Breno Sacilotti | https://github.com/acreditar
+Dev | Breno Rodney Cunha Sacilotti | https://github.com/acreditar
 Scrum Master | João Gabriel Sobrinho dias de Oliveira | https://github.com/dev-joaogabriel/
 P.O | Jonas Santos Rubio | https://github.com/JSRubioo
 Dev | Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
