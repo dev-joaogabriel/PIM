@@ -33,7 +33,12 @@ A modelagem UML (Unified Modeling Language) é utilizada para representar grafic
 
 O diagrama de casos de uso descreve as funcionalidades do sistema do ponto de vista do usuário. Ele ajuda a entender quais interações são possíveis dentro do sistema.
 ![image](https://github.com/user-attachments/assets/3181adfb-96af-4f40-883b-1528b2dbdc58)
+----
+# Casos de uso descritivo 
+Caso de uso descritivo é um documento que informa ou descreve como o usuario interage com o sistema, incluindo seus cenarios alternativos que podem ocorrer.
 
+[Caso de Uso descritivo](https://github.com/dev-joaogabriel/PIM/blob/7c05ac7e983e4874573d766dc6284420ab8d7581/descritivos/CasoDescritivo.md)
+----
 # Integrantes do Grupo 
 Função | Nome | Github |
 ------------ |------------ | ------------- |
