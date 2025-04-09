@@ -43,3 +43,22 @@ Este documento descreve os casos de uso do sistema de chamados com base nos ator
 - **3a.** Nenhum chamado disponível → O sistema exibe uma mensagem informando ausência de chamados.
 - **5a.** A ação demanda ajuda externa → O técnico registra a solicitação de apoio.
 - **6a.** Erro ao salvar atualização → O sistema exibe mensagem de erro e solicita nova tentativa.
+- 
+---
+
+## Caso de Uso: Analisar Chamado
+**Ator Principal:** IA  
+**Resumo:** A IA realiza a análise automática de chamados, identificando possíveis causas e sugerindo soluções.  
+**Pré-condições:** O chamado deve estar aberto e disponível para análise.  
+**Pós-condições:** O chamado recebe uma análise preliminar e possíveis soluções sugeridas.  
+
+### Fluxo Principal
+1. Um chamado é aberto por um usuário.
+2. A IA é acionada para analisar o conteúdo do chamado.
+3. A IA verifica palavras-chave, contexto e histórico de chamados semelhantes.
+4. Gera uma análise com sugestão de solução ou encaminhamento.
+5. Armazena a análise no chamado para revisão humana (se necessário).
+
+### Extensões
+- **2a.** Falha na execução do modelo de IA → O sistema registra erro e envia notificação para manutenção.
+- **3a.** Nenhum dado relevante encontrado → A IA marca o chamado como **"Requer análise manual"**.
