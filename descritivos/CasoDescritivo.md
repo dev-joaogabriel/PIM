@@ -72,7 +72,7 @@ Este documento descreve os casos de uso do sistema de chamados com base nos ator
 **Pós-condições:** O usuário é informado sobre o status do chamado.  
 
 ### Fluxo Principal
-1. O chamado sofre alteração de status (ex: tratado, pendente, resolvido).
+1. O chamado sofre alteração de status (ex: tratado, pendente, resolvido, finalizado).
 2. O sistema identifica a mudança e o usuário vinculado ao chamado.
 3. Gera uma mensagem padrão com base no novo status.
 4. Envia uma notificação por e-mail ou sistema interno.
