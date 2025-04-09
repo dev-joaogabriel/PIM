@@ -43,7 +43,7 @@ Este documento descreve os casos de uso do sistema de chamados com base nos ator
 - **3a.** Nenhum chamado disponível → O sistema exibe uma mensagem informando ausência de chamados.
 - **5a.** A ação demanda ajuda externa → O técnico registra a solicitação de apoio.
 - **6a.** Erro ao salvar atualização → O sistema exibe mensagem de erro e solicita nova tentativa.
-- 
+  
 ---
 
 ## Caso de Uso: Analisar Chamado
