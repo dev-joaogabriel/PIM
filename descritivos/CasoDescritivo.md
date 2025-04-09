@@ -24,3 +24,22 @@ Este documento descreve os casos de uso do sistema de chamados com base nos ator
 - **5a.** O usuário cancela a operação → O sistema descarta os dados inseridos.
 
 ---
+
+## Caso de Uso: Tratar Chamado
+**Ator Principal:** Técnico  
+**Resumo:** Permite ao técnico visualizar, analisar e atuar nos chamados abertos pelos usuários.  
+**Pré-condições:** O técnico deve estar autenticado e ter acesso ao módulo de tratamento.  
+**Pós-condições:** O chamado é atualizado com a ação tomada (resolução, encaminhamento, etc).  
+
+### Fluxo Principal
+1. O técnico faz login no sistema.
+2. Acessa **"Consultar Chamados"**.
+3. Visualiza a lista de chamados atribuido a ele ou ao seu setor respectivo.
+4. Seleciona um chamado.
+5. Realiza análise e toma as ações necessárias.
+6. Atualiza o chamado com o status e as ações realizadas.
+
+### Extensões
+- **3a.** Nenhum chamado disponível → O sistema exibe uma mensagem informando ausência de chamados.
+- **5a.** A ação demanda ajuda externa → O técnico registra a solicitação de apoio.
+- **6a.** Erro ao salvar atualização → O sistema exibe mensagem de erro e solicita nova tentativa.
