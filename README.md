@@ -27,7 +27,7 @@ Os requisitos não funcionais são características que melhoram a experiência 
 - Segurança
 - LGPD
 
-# Requesitos de sistema
+# Requisitos de sistema
 
 - Desenvolvimento console em C#
 - Desenvolvimento .NET para WEB
