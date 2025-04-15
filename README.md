@@ -34,6 +34,11 @@ Os requisitos não funcionais são características que melhoram a experiência 
 - Integração com I.A
 - Banco de dados em MS SQL
 
+# Descrição protótipo FIGMA
+
+
+
+
 # UML - Modelagem do Sistema
 
 A modelagem UML (Unified Modeling Language) é utilizada para representar graficamente a estrutura e o comportamento do sistema.
