@@ -34,9 +34,6 @@ O link abaixo direciona parra um protótipo do possível modelo do software pa
 
 [FIGMA](https://www.figma.com/proto/XZNU7yRqvkcLvtAPJaaEnB/Projeto-PIM?node-id=225-528&t=YzKjIYX9TlQdnHGI-1)
 
-
-
-
 # UML - Modelagem do Sistema
 
 A modelagem UML (Unified Modeling Language) é utilizada para representar graficamente a estrutura e o comportamento do sistema.
