@@ -35,7 +35,9 @@ Os requisitos não funcionais são características que melhoram a experiência 
 - Banco de dados em MS SQL
 
 # Descrição protótipo FIGMA
-O link abaixo direciona parra um protótipo do possível modelo do software para versão console
+O link abaixo direciona parra um protótipo do possível modelo do software para versão console.
+
+[FIGMA](https://www.figma.com/proto/XZNU7yRqvkcLvtAPJaaEnB/Projeto-PIM?node-id=225-528&t=YzKjIYX9TlQdnHGI-1)
 
 
 
