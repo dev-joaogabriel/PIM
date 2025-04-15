@@ -48,6 +48,8 @@ O link abaixo direciona parra um protótipo do possível modelo do software pa
 
 A modelagem UML (Unified Modeling Language) é utilizada para representar graficamente a estrutura e o comportamento do sistema.
 
+----
+
 # Casos de Uso
 
 O diagrama de casos de uso descreve as funcionalidades do sistema do ponto de vista do usuário. Ele ajuda a entender quais interações são possíveis dentro do sistema.
@@ -72,9 +74,13 @@ Scrum Master | João Gabriel Sobrinho dias de Oliveira | https://github.com/dev-
 P.O | Jonas Santos Rubio | https://github.com/JSRubioo
 Dev | Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
 
+----
+
 # Diagrama de Classe
 
 O diagrama de classe representa a estrutura estática do sistema, mostrando as classes, atributos, métodos e relacionamentos entre elas.
+
+----
 
 # Sprint Backlog
 Sprint | Descição | Data de entrega |
