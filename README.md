@@ -110,14 +110,14 @@ Em breve..
 ----
 
 # Sprint Backlog
-Sprint | Descição | Data de entrega |
------------- |------------ | ------------- |
-1 | Levantamento de requisitos | 18/03/2025 |
-2 | Elaboração prototipo FIGMA | 11/04/2025 |
-3 | Diagrama de casos de usos | 14/04/2025 |
-4 | Casos de usos descritivos | 18/04/2025 |
-5 | Diagrama de classes | 25/04/2025 |
-6 | Diagrama de sequencia | 02/05/2025 |
-7 | Inicio da modelagem do BDD | 09/05/2025 |
-8 | Diagrama de Implantação | 12/05/2025 |
-9 | Planilha de testes | 16/05/2025 |
+Sprint | Descição | Data de entrega | Responsável |
+------------ |------------ | ------------- |------------- |
+1 | Levantamento de requisitos | 18/03/2025 | João Gabriel |
+2 | Elaboração prototipo FIGMA | 11/04/2025 | Jonas Rubio |
+3 | Diagrama de casos de usos | 14/04/2025 | Rodrigo Eduardo | 
+4 | Casos de usos descritivos | 18/04/2025 | Breno Sacilotti |
+5 | Diagrama de classes | 25/04/2025 | Jonas Rubio |
+6 | Diagrama de sequencia | 02/05/2025 | Rodrigo Eduardo |
+7 | Inicio da modelagem do BDD | 09/05/2025 | João Gabriel |
+8 | Diagrama de Implantação | 12/05/2025 | Jonas Rubio |
+9 | Planilha de testes | 16/05/2025 | Breno Sacilotti |
