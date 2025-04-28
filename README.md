@@ -1,107 +1,66 @@
-# PIM III
+# HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
-# Descrição
+![BannerHelp](Header.png)
 
-Este é um projeto acadêmico desenvolvido para a disciplina de Análise de Sistemas Orientada a Objeto da faculdade UNIP - Universidade Paulista, campus São José dos Campos. O objetivo do projeto é desenvolver um sistema onde seja possivel fazer a gestão de chamados e suporte.
+_Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
+---
 
-# Integrantes do Grupo 
-Função | Nome | Github |
------------- |------------ | ------------- |
-Dev | Breno Rodney Cunha Sacilotti | https://github.com/acreditar
-Scrum Master | João Gabriel Sobrinho dias de Oliveira | https://github.com/dev-joaogabriel/
-P.O | Jonas Santos Rubio | https://github.com/JSRubioo
-Dev | Rodrigo Eduardo Silva de Oliveira | https://github.com/devRODS
+## 📌 Sobre a HelpDesk
 
+Fundada em 2024, a **HelpDesk** é uma plataforma de suporte técnico corporativo especializada em centralizar e automatizar o atendimento de TI. Nossa missão é **transformar a experiência interna de suporte** através de tecnologia de ponta e inteligência artificial aplicada.
 
-# Requisitos Funcionais (Sprint 1)
-
-Os requisitos funcionais são aqueles que definem as funcionalidades essenciais do sistema:
-
-- Abrir chamado.
-- Gerenciar chamado.
-- Realizar triagem do chamado.
-- Validar se a proposta sugerida funcionou e encerrar chamado em caso positivo.
+---
 
 
-# Requisitos Não Funcionais (Sprint 1)
+## 🚀 Diferenciais Estratégicos
 
-Os requisitos não funcionais são características que melhoram a experiência do usuário e a segurança do sistema:
+| Área                       | Inovação HelpDesk                                                               |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| **Centralização**          | Portal único para registro, acompanhamento e histórico de chamados              |
+| **Automação de Suporte**   | IA que sugere soluções automáticas para 70% dos problemas registrados           |
+| **Roteamento Inteligente** | Encaminhamento automático para técnicos especializados, conforme a complexidade |
+| **Base de Conhecimento**   | FAQ e tutoriais dinâmicos gerados automaticamente pela IA                       |
 
-- Facilitar o preenchimento dos tópicos do chamado minimizando erros.
-- Validar usuário.
+---
+
+## 💡 Produtos e Soluções
+
+### 1. HelpDesk Connect
+**O que faz:**  
+Portal de registro de chamados via web ou app mobile.
+
+**Destaques:**
 - Interface intuitiva
-- Segurança
-- LGPD
+- Login seguro com SSO e MFA
+- Histórico completo de atendimento por usuário
 
+### 2. HelpDesk AI Assist
+**Exclusivo para clientes:**
+- Triagem automática de chamados por IA
+- Sugestão de soluções baseadas em casos anteriores
+- Autoatendimento com inteligência adaptativa
 
-# Requisitos de sistema (Sprint 1)
+### 3. HelpDesk Insights
+**Painel de métricas e gestão de SLA:**
+- Monitoramento de KPIs como MTTR, FCR e SLA compliance
+- Análise preditiva para identificação de gargalos
 
-- Desenvolvimento console em C#
-- Desenvolvimento .NET para WEB
-- Integração com I.A
-- Banco de dados em MS SQL
+---
 
+## 🌎 Responsabilidade Social
 
-# Descrição protótipo FIGMA (Sprint 2)
-O link abaixo direciona parra um protótipo do possível modelo do software para versão console.
+- **Programa "TI para Todos"**: Iniciativa que treina jovens de comunidades para atuação em suporte técnico.
+- **Sustentabilidade**: Infraestrutura 100% em nuvem com compensação de carbono.
 
-[FIGMA](https://www.figma.com/proto/XZNU7yRqvkcLvtAPJaaEnB/Projeto-PIM?node-id=225-528&t=YzKjIYX9TlQdnHGI-1)
+---
 
+## 📞 Contato e Carreira
 
-# UML - Modelagem do Sistema
+- **Comercial:** [rsjonas@hotmail.com.com](mailto:rsjonas@hotmail.com.com)    
+- **Imprensa:** [comunicacao@helpdesk.com.br](mailto:comunicacao@helpdesk.com.br)  
+- **Trabalhe conosco:** [carreiras@helpdesk.com.br](mailto:carreiras@helpdesk.com.br)
 
-A modelagem UML (Unified Modeling Language) é utilizada para representar graficamente a estrutura e o comportamento do sistema.
+---
 
-
-# Casos de Uso (Sprint 3)
-
-O diagrama de casos de uso descreve as funcionalidades do sistema do ponto de vista do usuário. Ele ajuda a entender quais interações são possíveis dentro do sistema.
-
-![image](https://github.com/user-attachments/assets/3181adfb-96af-4f40-883b-1528b2dbdc58)
-
-
-# Casos de uso descritivo (Sprint 4)
-
-Casos de uso descritivo é um documento que informa ou descreve como o usuario interage com o sistema, incluindo seus cenarios alternativos que podem ocorrer.
-
-[Casos de Uso descritivo](https://github.com/dev-joaogabriel/PIM/blob/7c05ac7e983e4874573d766dc6284420ab8d7581/descritivos/CasoDescritivo.md)
-
-
-# Diagrama de Classe (Em processo na Sprint 5)
-
-O diagrama de classe representa a estrutura estática do sistema, mostrando as classes, atributos, métodos e relacionamentos entre elas.
-
-
-# Diagrama de Sequencia (Entrará em processo na Sprint 6)
-
-O diagrama de sequência servirá para mostrar, em ordem temporal, como os objetos interagem entre si em um determinado processo ou funcionalidade. Ele ajuda a entender o fluxo de execução e a dinâmica do sistema.
-
-
-# Diagrama de Implantação (Entrará em processo na Sprint 8)
-
-Em breve..
-
-
-# Modelagem do BDD (Entrará em processo na Sprint 7)
-
-Em breve..
-
-
-# Planilha de testes (Entrará em processo na Sprint 9)
-
-Em breve..
-
-
-# Sprint Backlog
-Sprint | Descição | Data de entrega | Responsável |
------------- |------------ | ------------- |------------- |
-1 | Levantamento de requisitos | 18/03/2025 | João Gabriel |
-2 | Elaboração prototipo FIGMA | 11/04/2025 | Jonas Rubio |
-3 | Diagrama de casos de usos | 14/04/2025 | Rodrigo Eduardo | 
-4 | Casos de usos descritivos | 18/04/2025 | Breno Sacilotti |
-5 | Diagrama de classes | 25/04/2025 | Jonas Rubio |
-6 | Diagrama de sequencia | 02/05/2025 | Rodrigo Eduardo |
-7 | Inicio da modelagem do BDD | 09/05/2025 | João Gabriel |
-8 | Diagrama de Implantação | 12/05/2025 | Jonas Rubio |
-9 | Planilha de testes | 16/05/2025 | Breno Sacilotti |
+> **HelpDesk** — "Atendimento que entende você."
