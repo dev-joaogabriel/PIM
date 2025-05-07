@@ -57,10 +57,10 @@ Portal de registro de chamados via web ou app mobile.
 
 ## 📞 Contato e Carreira
 
-- **Comercial:** [rsjonas@hotmail.com.com](mailto:rsjonas@hotmail.com.com)    
-- **Imprensa:** [comunicacao@helpdesk.com.br](mailto:comunicacao@helpdesk.com.br)  
-- **Trabalhe conosco:** [carreiras@helpdesk.com.br](mailto:carreiras@helpdesk.com.br)
-
+- **Comercial:**: Jonas Santos Rubio  
+- **Imprensa:**: Breno Sacilotti  
+- **Trabalhe conosco:**: João Gabriel de Oliveira 
+- **FeedBack**: Rodrigo Oliveira
 ---
 
 > **HelpDesk** — "Atendimento que entende você."
