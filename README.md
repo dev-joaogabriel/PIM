@@ -57,10 +57,10 @@ Portal de registro de chamados via web ou app mobile.
 
 ## 📞 Contato e Carreira
 
-- **Comercial:**: Jonas Santos Rubio  
-- **Imprensa:**: Breno Sacilotti  
-- **Trabalhe conosco:**: João Gabriel de Oliveira 
-- **FeedBack**: Rodrigo Oliveira
+- **Comercial:** [Jonas Santos Rubio](https://github.com/JSRubioo)    
+- **Imprensa:** [Breno Sacilotti](https://github.com/acreditar)    
+- **Trabalhe conosco:** [João Gabriel de Oliveira](https://github.com/dev-joaogabriel)    
+- **FeedBack:** [Rodrigo Oliveira](https://github.com/devRODS)
 ---
 
 > **HelpDesk** — "Atendimento que entende você."
